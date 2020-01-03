@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<ProgConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GameSetName>BINGO Madness</GameSetName>
+  <GamePatterns>4	--- Other --	False	False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False
+0	Regular BINGO	False	True|False|False|False|False|False|True|False|False|False|False|False|True|False|False|False|False|False|True|False|False|False|False|False|True
+19	Clover leaf 4 postage stamps	False	True|True|False|True|True|True|True|False|True|True|False|False|False|False|False|True|True|False|True|True|True|True|False|True|True
+15	Diagonal any direction	False	False|False|False|False|True|False|False|False|True|False|False|False|True|False|False|False|True|False|False|False|True|False|False|False|False
+17	Double stamps any 2 corners	False	True|True|False|False|False|True|True|False|False|False|False|False|False|False|False|False|False|False|True|True|False|False|False|True|True
+1	Four Corners	False	True|False|False|False|True|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|True|False|False|False|True
+20	Four corners and stamp in any corner	False	True|True|False|False|True|True|True|False|False|False|False|False|False|False|False|False|False|False|False|False|True|False|False|False|True
+3	Full house (aka Coverall, Blackout)	False	True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True
+25	Inside diamond	False	False|False|False|False|False|False|False|True|False|False|False|True|False|True|False|False|False|True|False|False|False|False|False|False|False
+21	Inside four corners	False	False|False|False|False|False|False|True|False|True|False|False|False|False|False|False|False|True|False|True|False|False|False|False|False|False
+27	Inside picture frame	False	False|False|False|False|False|False|True|True|True|False|False|True|False|True|False|False|True|True|True|False|False|False|False|False|False
+32	Kite Any Direction	False	True|True|False|False|False|True|True|False|False|False|False|False|True|False|False|False|False|False|True|False|False|False|False|False|True
+5	Letter C	False	True|True|True|True|True|True|False|False|False|False|True|False|False|False|False|True|False|False|False|False|True|True|True|True|True
+6	Letter E	False	True|True|True|True|True|True|False|False|False|False|True|True|True|False|False|True|False|False|False|False|True|True|True|True|True
+7	Letter F	False	True|True|True|True|True|True|False|False|False|False|True|True|True|False|False|True|False|False|False|False|True|False|False|False|False
+33	Letter L	False	True|False|False|False|False|True|False|False|False|False|True|False|False|False|False|True|False|False|False|False|True|True|True|True|True
+8	Letter N	False	True|False|False|False|True|True|True|False|False|True|True|False|True|False|True|True|False|False|True|True|True|False|False|False|True
+9	Letter O	False	False|True|True|True|False|True|False|False|False|True|True|False|False|False|True|True|False|False|False|True|False|True|True|True|False
+10	Letter T	False	True|True|True|True|True|False|False|True|False|False|False|False|True|False|False|False|False|True|False|False|False|False|True|False|False
+11	Letter U	False	True|False|False|False|True|True|False|False|False|True|True|False|False|False|True|True|False|False|False|True|True|True|True|True|True
+2	Letter X	False	True|False|False|False|True|False|True|False|True|False|False|False|True|False|False|False|True|False|True|False|True|False|False|False|True
+12	Letter Y	False	True|False|False|False|True|False|True|False|True|False|False|False|True|False|False|False|False|True|False|False|False|False|True|False|False
+30	Mini full house anywhere	False	True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|False|False|False|False|False|False|False|False|False|False
+24	Nine-pack anywhere	False	True|True|True|False|False|True|True|True|False|False|True|True|True|False|False|False|False|False|False|False|False|False|False|False|False
+29	Open house any square	False	False|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True|True
+26	Outside diamond	False	False|False|True|False|False|False|False|False|False|False|True|False|False|False|True|False|False|False|False|False|False|False|True|False|False
+28	Outside picture frame	False	True|True|True|True|True|True|False|False|False|True|True|False|False|False|True|True|False|False|False|True|True|True|True|True|True
+31	Picnic table	False	True|True|True|True|True|False|True|False|True|False|False|False|True|False|False|False|True|False|True|False|True|False|False|False|True
+22	Plus Sign	False	False|False|True|False|False|False|False|True|False|False|True|True|True|True|True|False|False|True|False|False|False|False|True|False|False
+16	Postage stamp any corner	False	True|True|False|False|False|True|True|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False
+34	Railroad tracks	False	False|True|False|True|False|False|True|False|True|False|False|True|False|True|False|False|True|False|True|False|False|True|False|True|False
+23	Six-pack anywhere	False	True|True|True|False|False|True|True|True|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False
+13	Straight line across any line	False	True|True|True|True|True|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False|False
+14	Straight line down any line	False	True|False|False|False|False|True|False|False|False|False|True|False|False|False|False|True|False|False|False|False|True|False|False|False|False
+18	Triple stamps any 3 corners	False	False|False|False|True|True|False|False|False|True|True|False|False|False|False|False|True|True|False|True|True|True|True|False|True|True</GamePatterns>
+</ProgConfig>

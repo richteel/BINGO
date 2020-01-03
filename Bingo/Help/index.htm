@@ -1,0 +1,52 @@
+﻿<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+	<head>
+		<title>Bingo Help</title>
+        <style type="text/css">
+            .non-floater {
+                overflow:hidden;
+                height: 100%;
+            }
+            .topmenu 
+            {
+                height: 50px;
+            }
+            iframe {
+                    height: 100%;
+                    width: 100%;
+                    padding:0;
+                    border: 0;
+                }
+            table {
+                    height: 100%;
+                    width: 100%;
+                }
+        </style>
+        <script type="text/javascript" language="javascript">
+            function openLink(myUrl) {
+                var ifrm = document.getElementById("content");
+
+                //ifrm.location.href = myUrl;
+                ifrm.setAttribute('src', myUrl);
+            }
+        </script>
+	</head>
+	<body>
+        <table border="1">
+            <tr>
+                <td class="topmenu">
+                    <a href="javascript:openLink('home.htm');">Home</a>
+                    <a href="javascript:openLink('bingo_patterns.htm');">Games</a>
+                    <a href="javascript:openLink('http://www.teelsys.com/');">TeelSys</a>
+                </td>
+            </tr>
+            <tr>
+                <td id="contentarea">
+                    <div class="non-floater">
+                        <iframe id="content" src="home.htm"></iframe>
+                    </div>
+                </td>
+            </tr>
+        </table>
+	</body>
+</html>
